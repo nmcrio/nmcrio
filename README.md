@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Rio 👋
 
 <!--
 **nmcrio/nmcrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌟 Front-End Developer | 🎓 Information Systems Student @ Universitas Terbuka
+
+Crafting beautiful web experiences with HTML, CSS & JavaScript ✨
+Currently building my personal portfolio & mastering front-end fundamentals.
+
+📱 Tech: HTML5 | CSS3 | JavaScript
+🎯 Goal: Create stunning, responsive web interfaces
+💡 Always learning, always coding.
+
+Let's build something amazing together! 🚀
